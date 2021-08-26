@@ -1,0 +1,118 @@
+
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather',serif;
+}
+
+.top-container{
+  background-color: #E4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.code-img {
+  border-radius: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game-img {
+  border-radius: 200px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-img {
+  border-radius: 200px;
+  width: 25%;
+}
+
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Sacramento',cursive;
+  font-size: 462.6%;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size : 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+h3 {
+  color: #11999b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+p{
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding : 20px 0;
+}
+
+a{
+  color: black;
+  margin: 0 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+hr {
+  border: dotted #Efefef 6px;
+  border-bottom: 0;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.copyright{
+  font-size: 0.75rem;
+  color: white;
+}
+.btn {
+  background-color: #66bfbf;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.btn:hover {
+  background-color: #439494;
+  color: black;
+}
